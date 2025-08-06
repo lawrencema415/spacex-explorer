@@ -24,3 +24,12 @@ body {
   color: var(--foreground);
   font-family: Arial, Helvetica, sans-serif;
 }
+
+pre, code {
+  color: #333;
+  background-color: #f4f4f4;
+}
+
+select, option {
+  color: #333;
+}
